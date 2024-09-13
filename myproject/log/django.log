@@ -1,0 +1,61 @@
+Watching for file changes with StatReloader
+"GET /prefix/about/ HTTP/1.1" 200 8
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /prefix/about/ HTTP/1.1" 200 27
+"GET /prefix/ HTTP/1.1" 200 13
+Not Found: /prefix/56
+"GET /prefix/56 HTTP/1.1" 404 2719
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /prefix/56
+"GET /prefix/56 HTTP/1.1" 404 2719
+"GET /prefix/about HTTP/1.1" 301 0
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py", line 15, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+"GET /prefix/about/ HTTP/1.1" 200 27
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-09-13 22:49:03,987 autoreload 9996 5560 Watching for file changes with StatReloader
+ERROR 2024-09-13 22:49:12,248 views 9996 18256 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp\views.py", line 15, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-09-13 22:49:12,250 basehttp 9996 18256 "GET /prefix/about/ HTTP/1.1" 200 27
+INFO 2024-09-13 22:49:23,637 views 9996 18256 Index page accessed
+INFO 2024-09-13 22:49:23,638 basehttp 9996 18256 "GET /prefix/ HTTP/1.1" 200 13
