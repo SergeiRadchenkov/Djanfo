@@ -59,3 +59,6 @@ ZeroDivisionError: division by zero
 INFO 2024-09-13 22:49:12,250 basehttp 9996 18256 "GET /prefix/about/ HTTP/1.1" 200 27
 INFO 2024-09-13 22:49:23,637 views 9996 18256 Index page accessed
 INFO 2024-09-13 22:49:23,638 basehttp 9996 18256 "GET /prefix/ HTTP/1.1" 200 13
+INFO 2024-09-14 09:41:05,943 autoreload 23512 9392 Watching for file changes with StatReloader
+INFO 2024-09-14 09:44:35,652 autoreload 21412 4176 Watching for file changes with StatReloader
+INFO 2024-09-14 09:50:54,740 autoreload 8468 17120 Watching for file changes with StatReloader

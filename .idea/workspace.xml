@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7df0c610-f7a0-4a23-9e03-06d03fe68cf6" name="Changes" comment="Lection 1" />
+    <list default="true" id="7df0c610-f7a0-4a23-9e03-06d03fe68cf6" name="Changes" comment="Lection 1">
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/create_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/delete_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/fake_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_all_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_post_by_author_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_user_age_greater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/my_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/update_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/migrations/0002_author_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp2/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/log/django.log" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/log/django.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +49,21 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2lz55Gdwg96PuNGIYNyCDtk7rr2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +92,19 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Lection 1" />
     <option name="LAST_COMMIT_MESSAGE" value="Lection 1" />
   </component>
