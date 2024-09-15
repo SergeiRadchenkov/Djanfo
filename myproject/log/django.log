@@ -74,3 +74,218 @@ INFO 2024-09-15 13:32:46,276 basehttp 12352 17516 "GET /les3/hello/ HTTP/1.1" 20
 INFO 2024-09-15 13:32:53,317 basehttp 12352 17516 "GET /les3/hello2/ HTTP/1.1" 200 23
 INFO 2024-09-15 13:35:56,802 autoreload 12352 18412 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
 INFO 2024-09-15 13:35:57,343 autoreload 16972 6268 Watching for file changes with StatReloader
+INFO 2024-09-15 13:54:40,041 autoreload 20076 26888 Watching for file changes with StatReloader
+INFO 2024-09-15 13:56:32,561 autoreload 20076 26888 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 13:56:32,967 autoreload 11888 3016 Watching for file changes with StatReloader
+INFO 2024-09-15 17:06:58,091 autoreload 29684 29012 Watching for file changes with StatReloader
+INFO 2024-09-15 17:07:00,471 basehttp 29684 16584 "GET /les3/posts/2022 HTTP/1.1" 301 0
+INFO 2024-09-15 17:07:00,474 basehttp 29684 13788 "GET /les3/posts/2022/ HTTP/1.1" 200 19
+INFO 2024-09-15 17:39:27,632 autoreload 29684 29012 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:39:28,116 autoreload 21364 26344 Watching for file changes with StatReloader
+INFO 2024-09-15 17:39:30,360 autoreload 21364 26344 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:39:30,842 autoreload 2172 28584 Watching for file changes with StatReloader
+INFO 2024-09-15 17:39:38,096 autoreload 2172 28584 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:39:38,544 autoreload 15704 16624 Watching for file changes with StatReloader
+INFO 2024-09-15 17:39:42,744 autoreload 15704 16624 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:39:43,134 autoreload 23928 26224 Watching for file changes with StatReloader
+INFO 2024-09-15 17:39:49,356 autoreload 23928 26224 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:39:49,777 autoreload 3128 24912 Watching for file changes with StatReloader
+INFO 2024-09-15 17:39:53,943 autoreload 3128 24912 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:39:54,377 autoreload 8640 21856 Watching for file changes with StatReloader
+INFO 2024-09-15 17:40:01,609 autoreload 8640 21856 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:40:02,038 autoreload 24848 29460 Watching for file changes with StatReloader
+INFO 2024-09-15 17:40:09,276 autoreload 24848 29460 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:40:09,733 autoreload 26240 14164 Watching for file changes with StatReloader
+INFO 2024-09-15 17:40:12,994 autoreload 26240 14164 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 17:40:13,428 autoreload 24360 25928 Watching for file changes with StatReloader
+INFO 2024-09-15 17:56:07,766 autoreload 17080 6120 Watching for file changes with StatReloader
+INFO 2024-09-15 17:56:11,904 basehttp 17080 14516 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-09-15 17:56:13,272 basehttp 17080 14516 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-09-15 18:11:22,684 autoreload 17080 6120 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 18:11:23,149 autoreload 12240 11328 Watching for file changes with StatReloader
+INFO 2024-09-15 18:11:24,379 autoreload 12240 11328 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 18:11:24,803 autoreload 29212 29348 Watching for file changes with StatReloader
+INFO 2024-09-15 18:26:21,694 autoreload 22084 21900 Watching for file changes with StatReloader
+INFO 2024-09-15 18:26:23,345 basehttp 22084 14284 "GET /les3/if HTTP/1.1" 301 0
+INFO 2024-09-15 18:26:23,353 basehttp 22084 16628 "GET /les3/if/ HTTP/1.1" 200 348
+INFO 2024-09-15 21:42:47,964 autoreload 23748 27536 Watching for file changes with StatReloader
+WARNING 2024-09-15 21:42:52,925 log 23748 26568 Not Found: /
+WARNING 2024-09-15 21:42:52,926 basehttp 23748 26568 "GET / HTTP/1.1" 404 2458
+WARNING 2024-09-15 21:42:52,972 log 23748 26568 Not Found: /favicon.ico
+WARNING 2024-09-15 21:42:52,973 basehttp 23748 26568 "GET /favicon.ico HTTP/1.1" 404 2509
+INFO 2024-09-15 21:43:09,399 basehttp 23748 26568 "GET /les3 HTTP/1.1" 301 0
+INFO 2024-09-15 21:43:09,404 basehttp 23748 32508 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-09-15 21:43:15,110 basehttp 23748 32508 "GET /les3/for HTTP/1.1" 301 0
+INFO 2024-09-15 21:43:15,114 basehttp 23748 3784 "GET /les3/for/ HTTP/1.1" 200 908
+INFO 2024-09-15 22:03:38,934 autoreload 23748 27536 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:03:39,393 autoreload 27392 11784 Watching for file changes with StatReloader
+INFO 2024-09-15 22:03:41,637 autoreload 27392 11784 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:03:42,105 autoreload 22576 17076 Watching for file changes with StatReloader
+INFO 2024-09-15 22:03:51,540 autoreload 22576 17076 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:03:51,973 autoreload 15580 22124 Watching for file changes with StatReloader
+INFO 2024-09-15 22:03:56,138 autoreload 15580 22124 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:03:56,517 autoreload 9748 32380 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:04,834 autoreload 9748 32380 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:05,217 autoreload 22888 24960 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:10,401 autoreload 22888 24960 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:10,862 autoreload 17076 25628 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:14,169 autoreload 17076 25628 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:14,617 autoreload 10108 27608 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:15,870 autoreload 10108 27608 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:16,384 autoreload 27536 9592 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:20,661 autoreload 27536 9592 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:21,169 autoreload 11848 31636 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:25,443 autoreload 11848 31636 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:25,931 autoreload 32732 11208 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:30,245 autoreload 32732 11208 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:30,685 autoreload 29460 31676 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:41,152 autoreload 29460 31676 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:41,559 autoreload 25852 28148 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:43,844 autoreload 25852 28148 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:44,359 autoreload 14480 17312 Watching for file changes with StatReloader
+INFO 2024-09-15 22:04:50,719 autoreload 14480 17312 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:04:51,141 autoreload 29864 32524 Watching for file changes with StatReloader
+INFO 2024-09-15 22:05:31,032 autoreload 29864 32524 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 22:05:31,528 autoreload 11216 11064 Watching for file changes with StatReloader
+INFO 2024-09-15 22:05:55,888 autoreload 11216 11064 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:05:56,329 autoreload 23036 21064 Watching for file changes with StatReloader
+INFO 2024-09-15 22:06:05,759 autoreload 23036 21064 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:06:06,161 autoreload 23620 18020 Watching for file changes with StatReloader
+INFO 2024-09-15 22:06:15,589 autoreload 23620 18020 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:06:16,022 autoreload 32368 9592 Watching for file changes with StatReloader
+INFO 2024-09-15 22:06:30,439 autoreload 32368 9592 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:06:30,815 autoreload 32288 6092 Watching for file changes with StatReloader
+INFO 2024-09-15 22:06:38,170 autoreload 32288 6092 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:06:38,656 autoreload 31860 32692 Watching for file changes with StatReloader
+INFO 2024-09-15 22:06:45,071 autoreload 31860 32692 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:06:45,547 autoreload 27300 24380 Watching for file changes with StatReloader
+INFO 2024-09-15 22:06:52,927 autoreload 27300 24380 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:06:53,433 autoreload 32364 26060 Watching for file changes with StatReloader
+INFO 2024-09-15 22:06:58,752 autoreload 32364 26060 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 22:06:59,254 autoreload 23720 9020 Watching for file changes with StatReloader
+INFO 2024-09-15 22:07:32,029 basehttp 23720 28284 "GET /les3/index HTTP/1.1" 301 0
+INFO 2024-09-15 22:07:32,035 basehttp 23720 29760 "GET /les3/index/ HTTP/1.1" 200 243
+INFO 2024-09-15 22:07:50,772 basehttp 23720 29760 "GET /les3/about/ HTTP/1.1" 200 257
+INFO 2024-09-15 22:09:24,496 autoreload 23720 9020 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-09-15 22:09:24,977 autoreload 25668 6352 Watching for file changes with StatReloader
+INFO 2024-09-15 22:09:30,315 autoreload 25668 6352 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-09-15 22:09:30,769 autoreload 32424 25364 Watching for file changes with StatReloader
+INFO 2024-09-15 22:09:33,042 autoreload 32424 25364 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-09-15 22:16:01,721 autoreload 11848 2220 Watching for file changes with StatReloader
+WARNING 2024-09-15 22:16:01,897 log 11848 32756 Not Found: /les3/штвуч
+WARNING 2024-09-15 22:16:01,897 basehttp 11848 32756 "GET /les3/%D1%88%D1%82%D0%B2%D1%83%D1%87 HTTP/1.1" 404 5091
+INFO 2024-09-15 22:16:09,798 basehttp 11848 32756 "GET /les3/index/ HTTP/1.1" 200 307
+INFO 2024-09-15 22:16:58,969 autoreload 11848 2220 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:16:59,405 autoreload 32740 31604 Watching for file changes with StatReloader
+INFO 2024-09-15 22:17:04,603 autoreload 32740 31604 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:17:05,095 autoreload 23636 32004 Watching for file changes with StatReloader
+INFO 2024-09-15 22:17:10,281 autoreload 23636 32004 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:17:10,688 autoreload 32288 28020 Watching for file changes with StatReloader
+INFO 2024-09-15 22:17:14,859 autoreload 32288 28020 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:17:15,252 autoreload 9020 27268 Watching for file changes with StatReloader
+INFO 2024-09-15 22:17:19,419 autoreload 9020 27268 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:17:19,912 autoreload 12440 32064 Watching for file changes with StatReloader
+INFO 2024-09-15 22:17:27,154 autoreload 12440 32064 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:17:27,553 autoreload 16300 12260 Watching for file changes with StatReloader
+INFO 2024-09-15 22:18:24,688 autoreload 16300 12260 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:18:25,174 autoreload 27268 32196 Watching for file changes with StatReloader
+INFO 2024-09-15 22:18:27,300 autoreload 27268 32196 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:18:27,709 autoreload 11668 26400 Watching for file changes with StatReloader
+INFO 2024-09-15 22:18:31,870 autoreload 11668 26400 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:18:32,260 autoreload 19468 15448 Watching for file changes with StatReloader
+INFO 2024-09-15 22:18:36,560 autoreload 19468 15448 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\urls.py changed, reloading.
+INFO 2024-09-15 22:18:37,058 autoreload 26684 20924 Watching for file changes with StatReloader
+INFO 2024-09-15 22:19:08,496 basehttp 26684 29248 "GET /les3/index/ HTTP/1.1" 200 307
+INFO 2024-09-15 22:19:09,311 basehttp 26684 29248 "GET /les3/index/ HTTP/1.1" 200 307
+INFO 2024-09-15 22:21:28,879 autoreload 26684 20924 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:29,369 autoreload 31832 27380 Watching for file changes with StatReloader
+INFO 2024-09-15 22:21:34,697 autoreload 31832 27380 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:35,103 autoreload 32720 26608 Watching for file changes with StatReloader
+INFO 2024-09-15 22:21:43,530 autoreload 32720 26608 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:43,987 autoreload 27120 29132 Watching for file changes with StatReloader
+INFO 2024-09-15 22:21:45,214 autoreload 27120 29132 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:45,676 autoreload 22012 25348 Watching for file changes with StatReloader
+INFO 2024-09-15 22:21:47,945 autoreload 22012 25348 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:48,457 autoreload 32328 26132 Watching for file changes with StatReloader
+INFO 2024-09-15 22:21:50,684 autoreload 32328 26132 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:51,084 autoreload 11576 27508 Watching for file changes with StatReloader
+INFO 2024-09-15 22:21:54,346 autoreload 11576 27508 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:54,787 autoreload 31760 17016 Watching for file changes with StatReloader
+INFO 2024-09-15 22:21:57,023 autoreload 31760 17016 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:21:57,490 autoreload 27188 29976 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:00,758 autoreload 27188 29976 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:01,187 autoreload 29884 13992 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:08,588 autoreload 29884 13992 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:08,993 autoreload 21308 26536 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:11,242 autoreload 21308 26536 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:11,610 autoreload 31760 32520 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:13,867 autoreload 31760 32520 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:14,281 autoreload 32732 32320 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:19,643 autoreload 32732 32320 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:20,150 autoreload 32712 27536 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:23,421 autoreload 32712 27536 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:23,823 autoreload 27540 4624 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:27,114 autoreload 27540 4624 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:27,545 autoreload 27436 1428 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:30,853 autoreload 27436 1428 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:31,295 autoreload 30920 27532 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:34,566 autoreload 30920 27532 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:35,027 autoreload 10768 26132 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:39,325 autoreload 10768 26132 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:39,731 autoreload 27568 21704 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:40,928 autoreload 27568 21704 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:41,383 autoreload 23664 15740 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:43,623 autoreload 23664 15740 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:44,056 autoreload 19616 28284 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:48,376 autoreload 19616 28284 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:48,847 autoreload 32612 14096 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:51,139 autoreload 32612 14096 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:51,621 autoreload 27984 15832 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:55,932 autoreload 27984 15832 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:56,349 autoreload 10008 32216 Watching for file changes with StatReloader
+INFO 2024-09-15 22:22:58,637 autoreload 10008 32216 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:22:59,070 autoreload 22888 7692 Watching for file changes with StatReloader
+INFO 2024-09-15 22:23:03,427 autoreload 22888 7692 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:23:03,831 autoreload 6404 6352 Watching for file changes with StatReloader
+INFO 2024-09-15 22:23:05,093 autoreload 6404 6352 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:23:05,485 autoreload 22428 9064 Watching for file changes with StatReloader
+INFO 2024-09-15 22:23:09,756 autoreload 22428 9064 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:23:10,201 autoreload 30924 10940 Watching for file changes with StatReloader
+INFO 2024-09-15 22:23:14,554 autoreload 30924 10940 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:23:14,960 autoreload 25760 17700 Watching for file changes with StatReloader
+INFO 2024-09-15 22:23:24,414 autoreload 25760 17700 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:23:24,835 autoreload 27120 8524 Watching for file changes with StatReloader
+INFO 2024-09-15 22:23:32,210 autoreload 27120 8524 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:23:32,672 autoreload 4624 26060 Watching for file changes with StatReloader
+INFO 2024-09-15 22:23:56,340 autoreload 4624 26060 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:23:56,779 autoreload 28572 31828 Watching for file changes with StatReloader
+INFO 2024-09-15 22:24:05,214 autoreload 28572 31828 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:24:05,696 autoreload 9132 23664 Watching for file changes with StatReloader
+INFO 2024-09-15 22:24:21,282 autoreload 9132 23664 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 22:24:21,693 autoreload 26684 28964 Watching for file changes with StatReloader
+INFO 2024-09-15 23:31:17,811 autoreload 32516 27676 Watching for file changes with StatReloader
+INFO 2024-09-15 23:31:41,000 basehttp 32516 4516 "GET /les3/author/5 HTTP/1.1" 200 6887
+INFO 2024-09-15 23:32:48,373 autoreload 32516 27676 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 23:32:48,849 autoreload 29452 33544 Watching for file changes with StatReloader
+INFO 2024-09-15 23:32:50,824 basehttp 29452 28392 "GET /les3/author/5 HTTP/1.1" 200 24860
+INFO 2024-09-15 23:32:51,560 basehttp 29452 28392 "GET /les3/author/5 HTTP/1.1" 200 24860
+INFO 2024-09-15 23:32:51,972 basehttp 29452 28392 "GET /les3/author/5 HTTP/1.1" 200 24860
+INFO 2024-09-15 23:32:59,407 autoreload 29452 33544 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\models.py changed, reloading.
+INFO 2024-09-15 23:32:59,859 autoreload 28684 26328 Watching for file changes with StatReloader
+INFO 2024-09-15 23:33:00,340 basehttp 28684 18188 "GET /les3/author/5 HTTP/1.1" 200 6887
+INFO 2024-09-15 23:33:28,732 basehttp 28684 18188 "GET /les3/post/49 HTTP/1.1" 200 213
+INFO 2024-09-15 23:33:42,510 basehttp 28684 18188 "GET /les3/post/50 HTTP/1.1" 200 213
+INFO 2024-09-15 23:33:45,531 basehttp 28684 18188 "GET /les3/post/48 HTTP/1.1" 200 213
+INFO 2024-09-15 23:33:48,145 basehttp 28684 18188 "GET /les3/post/46 HTTP/1.1" 200 213
+INFO 2024-09-15 23:35:00,832 basehttp 28684 18188 "GET /les3/post/48 HTTP/1.1" 200 213
+INFO 2024-09-15 23:35:03,303 basehttp 28684 18188 "GET /les3/post/48 HTTP/1.1" 200 213
+INFO 2024-09-15 23:36:37,700 basehttp 28684 18188 "GET /les3/post/50 HTTP/1.1" 200 213
+INFO 2024-09-15 23:36:49,589 basehttp 28684 18188 "GET /les3/post/50 HTTP/1.1" 200 213
+INFO 2024-09-15 23:36:54,087 basehttp 28684 18188 "GET /les3/post/10 HTTP/1.1" 200 213
+INFO 2024-09-15 23:37:09,570 basehttp 28684 18188 "GET /les3/post/49 HTTP/1.1" 200 213
+INFO 2024-09-15 23:37:15,416 basehttp 28684 18188 "GET /les3/post/46 HTTP/1.1" 200 213
+INFO 2024-09-15 23:41:14,491 autoreload 28684 26328 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\views.py changed, reloading.
+INFO 2024-09-15 23:41:14,969 autoreload 26592 34060 Watching for file changes with StatReloader
+INFO 2024-09-15 23:42:17,525 basehttp 26592 34152 "GET /les3/post/46 HTTP/1.1" 200 6007
+INFO 2024-09-15 23:42:18,427 basehttp 26592 34152 "GET /les3/post/46 HTTP/1.1" 200 6007
+INFO 2024-09-15 23:42:18,821 basehttp 26592 34152 "GET /les3/post/46 HTTP/1.1" 200 6007
