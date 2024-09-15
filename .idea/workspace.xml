@@ -5,30 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7df0c610-f7a0-4a23-9e03-06d03fe68cf6" name="Changes" comment="Lection 1">
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/create_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/delete_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/fake_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_all_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_post_by_author_id.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/get_user_age_greater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/my_command.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/management/commands/update_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/migrations/0002_author_post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp2/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp3/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/log/django.log" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/log/django.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

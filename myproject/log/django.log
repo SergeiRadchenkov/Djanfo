@@ -62,3 +62,15 @@ INFO 2024-09-13 22:49:23,638 basehttp 9996 18256 "GET /prefix/ HTTP/1.1" 200 13
 INFO 2024-09-14 09:41:05,943 autoreload 23512 9392 Watching for file changes with StatReloader
 INFO 2024-09-14 09:44:35,652 autoreload 21412 4176 Watching for file changes with StatReloader
 INFO 2024-09-14 09:50:54,740 autoreload 8468 17120 Watching for file changes with StatReloader
+INFO 2024-09-15 13:31:06,533 autoreload 12352 18412 Watching for file changes with StatReloader
+WARNING 2024-09-15 13:31:09,869 log 12352 14096 Not Found: /
+WARNING 2024-09-15 13:31:09,869 basehttp 12352 14096 "GET / HTTP/1.1" 404 2458
+WARNING 2024-09-15 13:31:09,915 log 12352 14096 Not Found: /favicon.ico
+WARNING 2024-09-15 13:31:09,916 basehttp 12352 14096 "GET /favicon.ico HTTP/1.1" 404 2509
+WARNING 2024-09-15 13:32:37,099 log 12352 14096 Not Found: /hello
+WARNING 2024-09-15 13:32:37,099 basehttp 12352 14096 "GET /hello HTTP/1.1" 404 2491
+INFO 2024-09-15 13:32:46,272 basehttp 12352 14096 "GET /les3/hello HTTP/1.1" 301 0
+INFO 2024-09-15 13:32:46,276 basehttp 12352 17516 "GET /les3/hello/ HTTP/1.1" 200 26
+INFO 2024-09-15 13:32:53,317 basehttp 12352 17516 "GET /les3/hello2/ HTTP/1.1" 200 23
+INFO 2024-09-15 13:35:56,802 autoreload 12352 18412 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-09-15 13:35:57,343 autoreload 16972 6268 Watching for file changes with StatReloader
