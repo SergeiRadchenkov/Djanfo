@@ -289,3 +289,94 @@ INFO 2024-09-15 23:41:14,969 autoreload 26592 34060 Watching for file changes wi
 INFO 2024-09-15 23:42:17,525 basehttp 26592 34152 "GET /les3/post/46 HTTP/1.1" 200 6007
 INFO 2024-09-15 23:42:18,427 basehttp 26592 34152 "GET /les3/post/46 HTTP/1.1" 200 6007
 INFO 2024-09-15 23:42:18,821 basehttp 26592 34152 "GET /les3/post/46 HTTP/1.1" 200 6007
+INFO 2024-09-21 00:07:57,400 autoreload 6108 46444 Watching for file changes with StatReloader
+INFO 2024-09-21 00:07:59,358 basehttp 6108 44836 "GET / HTTP/1.1" 200 307
+WARNING 2024-09-21 00:07:59,427 log 6108 44836 Not Found: /favicon.ico
+WARNING 2024-09-21 00:07:59,428 basehttp 6108 44836 "GET /favicon.ico HTTP/1.1" 404 2800
+WARNING 2024-09-21 00:08:22,190 log 6108 44836 Not Found: /less4
+WARNING 2024-09-21 00:08:22,190 basehttp 6108 44836 "GET /less4 HTTP/1.1" 404 2782
+WARNING 2024-09-21 00:08:36,797 log 6108 44836 Not Found: /less4/user/add
+WARNING 2024-09-21 00:08:36,798 basehttp 6108 44836 "GET /less4/user/add HTTP/1.1" 404 2809
+INFO 2024-09-21 00:08:55,719 basehttp 6108 44836 "GET /les4/user/add HTTP/1.1" 301 0
+INFO 2024-09-21 00:08:55,731 basehttp 6108 46532 "GET /les4/user/add/ HTTP/1.1" 200 829
+INFO 2024-09-21 00:09:06,447 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:07,624 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:08,119 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:08,320 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:08,483 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:08,623 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:08,780 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:08,942 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:09:09,451 basehttp 6108 46532 "POST /les4/user/add/ HTTP/1.1" 200 892
+INFO 2024-09-21 00:19:08,758 autoreload 6108 46444 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 00:19:09,257 autoreload 7868 45380 Watching for file changes with StatReloader
+INFO 2024-09-21 00:19:23,880 autoreload 7868 45380 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 00:19:24,358 autoreload 44468 15416 Watching for file changes with StatReloader
+INFO 2024-09-21 00:44:50,207 autoreload 38764 38816 Watching for file changes with StatReloader
+WARNING 2024-09-21 00:45:14,153 log 38764 34500 Not Found: /forms
+WARNING 2024-09-21 00:45:14,153 basehttp 38764 34500 "GET /forms HTTP/1.1" 404 2782
+INFO 2024-09-21 00:45:30,385 basehttp 38764 34500 "GET /les4/forms HTTP/1.1" 301 0
+INFO 2024-09-21 00:45:30,420 basehttp 38764 41776 "GET /les4/forms/ HTTP/1.1" 200 1517
+INFO 2024-09-21 00:46:30,365 basehttp 38764 41776 "POST /les4/forms/ HTTP/1.1" 200 1627
+INFO 2024-09-21 00:47:48,078 basehttp 38764 41776 "POST /les4/forms/ HTTP/1.1" 200 1627
+INFO 2024-09-21 00:47:51,802 basehttp 38764 41776 "POST /les4/forms/ HTTP/1.1" 200 1627
+INFO 2024-09-21 00:57:44,117 autoreload 38764 38816 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 00:57:44,590 autoreload 49292 35608 Watching for file changes with StatReloader
+INFO 2024-09-21 00:57:58,158 autoreload 49292 35608 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 00:57:58,543 autoreload 46156 44292 Watching for file changes with StatReloader
+INFO 2024-09-21 00:58:11,056 autoreload 46156 44292 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 00:58:11,524 autoreload 6784 3636 Watching for file changes with StatReloader
+INFO 2024-09-21 01:25:02,180 autoreload 25268 45116 Watching for file changes with StatReloader
+INFO 2024-09-21 01:25:07,888 basehttp 25268 45272 "POST /les4/forms/ HTTP/1.1" 200 2334
+INFO 2024-09-21 01:25:16,334 basehttp 25268 45272 "POST /les4/forms/ HTTP/1.1" 200 2284
+INFO 2024-09-21 01:28:03,464 autoreload 25268 45116 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 01:28:03,916 autoreload 46464 43624 Watching for file changes with StatReloader
+INFO 2024-09-21 01:28:12,369 autoreload 46464 43624 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 01:28:12,791 autoreload 41544 33132 Watching for file changes with StatReloader
+INFO 2024-09-21 01:28:18,029 autoreload 41544 33132 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 01:28:18,455 autoreload 50624 40712 Watching for file changes with StatReloader
+INFO 2024-09-21 01:34:34,299 autoreload 50624 40712 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 01:34:34,785 autoreload 44176 43624 Watching for file changes with StatReloader
+INFO 2024-09-21 01:34:45,273 autoreload 44176 43624 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 01:34:45,793 autoreload 42280 45380 Watching for file changes with StatReloader
+INFO 2024-09-21 01:34:49,974 autoreload 42280 45380 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 01:34:50,366 autoreload 51168 48580 Watching for file changes with StatReloader
+INFO 2024-09-21 01:34:53,545 autoreload 51168 48580 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 01:34:53,930 autoreload 32360 5528 Watching for file changes with StatReloader
+INFO 2024-09-21 02:13:49,274 autoreload 30864 37368 Watching for file changes with StatReloader
+INFO 2024-09-21 02:14:04,870 basehttp 30864 49604 "GET /les4/user HTTP/1.1" 301 0
+INFO 2024-09-21 02:14:04,882 basehttp 30864 26616 "GET /les4/user/ HTTP/1.1" 200 868
+INFO 2024-09-21 02:14:57,318 basehttp 30864 26616 "POST /les4/user/ HTTP/1.1" 200 1163
+INFO 2024-09-21 02:15:03,902 basehttp 30864 26616 "POST /les4/user/ HTTP/1.1" 200 1038
+INFO 2024-09-21 02:16:47,649 autoreload 30864 37368 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:16:48,064 autoreload 36212 28028 Watching for file changes with StatReloader
+INFO 2024-09-21 02:16:51,342 autoreload 36212 28028 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:16:51,850 autoreload 44988 38324 Watching for file changes with StatReloader
+INFO 2024-09-21 02:16:56,047 autoreload 44988 38324 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:16:56,465 autoreload 38940 51704 Watching for file changes with StatReloader
+INFO 2024-09-21 02:16:59,626 autoreload 38940 51704 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:00,024 autoreload 33832 48608 Watching for file changes with StatReloader
+INFO 2024-09-21 02:17:03,194 autoreload 33832 48608 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:03,610 autoreload 51544 51356 Watching for file changes with StatReloader
+INFO 2024-09-21 02:17:10,846 autoreload 51544 51356 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:11,267 autoreload 46784 46208 Watching for file changes with StatReloader
+INFO 2024-09-21 02:17:24,800 autoreload 46784 46208 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:25,269 autoreload 52104 15764 Watching for file changes with StatReloader
+INFO 2024-09-21 02:17:29,440 autoreload 52104 15764 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:29,907 autoreload 27616 50616 Watching for file changes with StatReloader
+INFO 2024-09-21 02:17:32,058 autoreload 27616 50616 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:32,489 autoreload 51844 17848 Watching for file changes with StatReloader
+INFO 2024-09-21 02:17:35,751 autoreload 51844 17848 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:36,206 autoreload 51704 30104 Watching for file changes with StatReloader
+INFO 2024-09-21 02:17:41,534 autoreload 51704 30104 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-09-21 02:17:41,964 autoreload 23644 27140 Watching for file changes with StatReloader
+INFO 2024-09-21 02:22:09,655 autoreload 23644 27140 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-09-21 02:22:10,074 autoreload 29244 21900 Watching for file changes with StatReloader
+INFO 2024-09-21 02:22:15,442 autoreload 29244 21900 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-09-21 02:40:38,067 autoreload 47692 51944 Watching for file changes with StatReloader
+INFO 2024-09-21 02:40:40,879 basehttp 47692 45104 "GET / HTTP/1.1" 200 307
+WARNING 2024-09-21 02:40:48,567 log 47692 45104 Not Found: /upload
+WARNING 2024-09-21 02:40:48,568 basehttp 47692 45104 "GET /upload HTTP/1.1" 404 2785
+INFO 2024-09-21 02:41:13,990 basehttp 47692 45104 "GET /les4/upload HTTP/1.1" 301 0
+INFO 2024-09-21 02:41:14,005 basehttp 47692 51460 "GET /les4/upload/ HTTP/1.1" 200 661
+INFO 2024-09-21 02:41:22,133 basehttp 47692 51460 "POST /les4/upload/ HTTP/1.1" 200 661
