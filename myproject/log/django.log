@@ -380,3 +380,1629 @@ WARNING 2024-09-21 02:40:48,568 basehttp 47692 45104 "GET /upload HTTP/1.1" 404 
 INFO 2024-09-21 02:41:13,990 basehttp 47692 45104 "GET /les4/upload HTTP/1.1" 301 0
 INFO 2024-09-21 02:41:14,005 basehttp 47692 51460 "GET /les4/upload/ HTTP/1.1" 200 661
 INFO 2024-09-21 02:41:22,133 basehttp 47692 51460 "POST /les4/upload/ HTTP/1.1" 200 661
+INFO 2024-09-21 10:20:35,219 autoreload 48164 19248 Watching for file changes with StatReloader
+INFO 2024-09-21 10:20:45,830 basehttp 48164 48132 "GET / HTTP/1.1" 200 307
+WARNING 2024-09-21 10:20:45,876 log 48164 48132 Not Found: /favicon.ico
+WARNING 2024-09-21 10:20:45,878 basehttp 48164 48132 "GET /favicon.ico HTTP/1.1" 404 2800
+INFO 2024-09-21 10:20:54,443 basehttp 48164 48132 "GET /admin HTTP/1.1" 301 0
+INFO 2024-09-21 10:20:54,453 basehttp 48164 42636 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:20:54,484 basehttp 48164 42636 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+INFO 2024-09-21 10:20:54,709 basehttp 48164 28028 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-09-21 10:20:54,719 basehttp 48164 41736 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+INFO 2024-09-21 10:20:54,724 basehttp 48164 25032 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2024-09-21 10:20:54,727 basehttp 48164 42636 "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+INFO 2024-09-21 10:20:54,731 basehttp 48164 48848 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2024-09-21 10:20:54,733 basehttp 48164 39904 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+INFO 2024-09-21 10:20:54,735 basehttp 48164 48848 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-09-21 10:23:06,807 autoreload 48164 19248 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-09-21 10:23:07,320 autoreload 48296 30348 Watching for file changes with StatReloader
+INFO 2024-09-21 10:23:32,329 basehttp 48296 44348 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4361
+INFO 2024-09-21 10:32:32,462 autoreload 54472 53128 Watching for file changes with StatReloader
+INFO 2024-09-21 10:32:53,950 basehttp 54472 1180 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:32:53,981 basehttp 54472 1180 "GET /admin/ HTTP/1.1" 200 6263
+INFO 2024-09-21 10:32:54,044 basehttp 54472 1180 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-09-21 10:32:54,050 basehttp 54472 44748 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-09-21 10:32:54,050 basehttp 54472 1180 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-09-21 10:35:21,533 basehttp 54472 1180 "GET /admin/auth/user/ HTTP/1.1" 200 12233
+INFO 2024-09-21 10:35:21,555 basehttp 54472 1180 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2024-09-21 10:35:21,556 basehttp 54472 47928 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-09-21 10:35:21,557 basehttp 54472 55544 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-09-21 10:35:21,557 basehttp 54472 2856 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+INFO 2024-09-21 10:35:21,558 basehttp 54472 52156 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-09-21 10:35:21,560 basehttp 54472 44748 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:35:21,563 basehttp 54472 47928 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-09-21 10:35:21,563 basehttp 54472 1180 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2024-09-21 10:35:21,563 basehttp 54472 2856 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-09-21 10:35:21,565 basehttp 54472 55544 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-09-21 10:35:21,570 basehttp 54472 52156 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-09-21 10:35:21,572 basehttp 54472 44748 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-09-21 10:35:21,586 basehttp 54472 44748 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-09-21 10:35:21,600 basehttp 54472 44748 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-09-21 10:35:21,601 basehttp 54472 55544 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-09-21 10:35:21,602 basehttp 54472 52156 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-09-21 10:35:52,455 basehttp 54472 52156 "GET /admin/auth/user/add/ HTTP/1.1" 200 13122
+INFO 2024-09-21 10:35:52,477 basehttp 54472 44748 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-09-21 10:35:52,477 basehttp 54472 55544 "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+INFO 2024-09-21 10:35:52,478 basehttp 54472 52156 "GET /static/admin/css/forms.css HTTP/1.1" 200 8710
+INFO 2024-09-21 10:35:52,479 basehttp 54472 2856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:35:52,486 basehttp 54472 2856 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11564
+INFO 2024-09-21 10:35:52,494 basehttp 54472 52156 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-09-21 10:35:52,497 basehttp 54472 52156 "GET /static/admin/js/unusable_password_field.js HTTP/1.1" 200 1480
+INFO 2024-09-21 10:37:26,163 basehttp 54472 52156 "POST /admin/auth/user/add/ HTTP/1.1" 200 13650
+INFO 2024-09-21 10:37:26,185 basehttp 54472 52156 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:37:51,942 basehttp 54472 52156 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:37:51,968 basehttp 54472 52156 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 25188
+INFO 2024-09-21 10:37:51,989 basehttp 54472 44748 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-09-21 10:37:51,989 basehttp 54472 2856 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2024-09-21 10:37:51,990 basehttp 54472 47928 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15502
+INFO 2024-09-21 10:37:51,991 basehttp 54472 55544 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-09-21 10:37:51,993 basehttp 54472 52156 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:37:52,034 basehttp 54472 52156 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-09-21 10:37:52,066 basehttp 54472 52156 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-09-21 10:37:52,066 basehttp 54472 55544 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-09-21 10:37:52,066 basehttp 54472 47928 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-09-21 10:37:52,073 basehttp 54472 2856 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-09-21 10:40:40,009 basehttp 54472 2856 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:40:40,019 basehttp 54472 2856 "GET /admin/auth/user/ HTTP/1.1" 200 12966
+INFO 2024-09-21 10:40:40,069 basehttp 54472 2856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:40:48,366 basehttp 54472 2856 "GET /admin/auth/group/ HTTP/1.1" 200 8027
+INFO 2024-09-21 10:40:48,383 basehttp 54472 2856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:40:51,770 basehttp 54472 2856 "GET /admin/auth/group/add/ HTTP/1.1" 200 14408
+INFO 2024-09-21 10:40:51,786 basehttp 54472 2856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:50:51,566 basehttp 54472 46920 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:50:51,579 basehttp 54472 46920 "GET /admin/auth/group/ HTTP/1.1" 200 9777
+INFO 2024-09-21 10:50:51,626 basehttp 54472 46920 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:51:06,258 basehttp 54472 46920 "GET /admin/auth/user/ HTTP/1.1" 200 13052
+INFO 2024-09-21 10:51:06,277 basehttp 54472 46920 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:51:14,849 basehttp 54472 46920 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 24971
+INFO 2024-09-21 10:51:14,871 basehttp 54472 46920 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:51:31,800 basehttp 54472 46920 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:51:31,811 basehttp 54472 46920 "GET /admin/auth/user/ HTTP/1.1" 200 13272
+INFO 2024-09-21 10:51:31,845 basehttp 54472 46920 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 10:51:43,513 basehttp 54472 46920 "POST /admin/logout/ HTTP/1.1" 200 3819
+INFO 2024-09-21 10:51:45,396 basehttp 54472 46920 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:51:45,406 basehttp 54472 46920 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4361
+INFO 2024-09-21 10:52:11,782 basehttp 54472 46920 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 10:52:11,788 basehttp 54472 46920 "GET /admin/ HTTP/1.1" 200 4899
+INFO 2024-09-21 10:54:51,299 autoreload 54472 53128 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 10:54:51,774 autoreload 17960 48304 Watching for file changes with StatReloader
+INFO 2024-09-21 10:54:56,075 autoreload 17960 48304 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 10:54:56,489 autoreload 29716 35544 Watching for file changes with StatReloader
+INFO 2024-09-21 10:55:03,818 autoreload 29716 35544 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 10:55:04,230 autoreload 51916 25316 Watching for file changes with StatReloader
+INFO 2024-09-21 10:55:05,454 autoreload 51916 25316 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 10:55:05,866 autoreload 53816 46988 Watching for file changes with StatReloader
+INFO 2024-09-21 11:06:58,715 autoreload 48064 44976 Watching for file changes with StatReloader
+INFO 2024-09-21 11:07:11,635 basehttp 48064 41108 "POST /admin/logout/ HTTP/1.1" 200 3819
+INFO 2024-09-21 11:07:13,963 basehttp 48064 41108 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:07:13,973 basehttp 48064 41108 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4361
+INFO 2024-09-21 11:07:26,616 basehttp 48064 41108 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:07:26,627 basehttp 48064 41108 "GET /admin/ HTTP/1.1" 200 9242
+INFO 2024-09-21 11:09:17,048 autoreload 48064 44976 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-09-21 11:09:17,509 autoreload 45336 49288 Watching for file changes with StatReloader
+INFO 2024-09-21 11:09:22,866 autoreload 45336 49288 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-09-21 11:09:23,295 autoreload 55888 38988 Watching for file changes with StatReloader
+INFO 2024-09-21 11:09:30,641 autoreload 55888 38988 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-09-21 11:09:31,022 autoreload 51624 53188 Watching for file changes with StatReloader
+INFO 2024-09-21 11:09:37,361 autoreload 51624 53188 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-09-21 11:09:37,757 autoreload 34396 52092 Watching for file changes with StatReloader
+INFO 2024-09-21 11:09:45,119 autoreload 34396 52092 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-09-21 11:09:45,536 autoreload 45512 35524 Watching for file changes with StatReloader
+INFO 2024-09-21 11:10:51,848 autoreload 40028 55472 Watching for file changes with StatReloader
+INFO 2024-09-21 11:10:55,671 basehttp 40028 39588 "GET /admin/ HTTP/1.1" 200 10689
+INFO 2024-09-21 11:11:45,476 basehttp 40028 39588 "POST /admin/logout/ HTTP/1.1" 200 3819
+INFO 2024-09-21 11:11:46,419 basehttp 40028 39588 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:11:46,445 basehttp 40028 39588 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4361
+INFO 2024-09-21 11:11:51,956 basehttp 40028 39588 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:11:51,975 basehttp 40028 39588 "GET /admin/ HTTP/1.1" 200 5601
+INFO 2024-09-21 11:12:16,783 basehttp 40028 39588 "GET /admin/myapp3/post/ HTTP/1.1" 200 17747
+INFO 2024-09-21 11:12:23,987 basehttp 40028 39588 "GET /admin/myapp3/post/12/change/ HTTP/1.1" 200 16395
+INFO 2024-09-21 11:12:24,031 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:12:48,974 basehttp 40028 39588 "GET /admin/myapp3/post/12/history/ HTTP/1.1" 200 6160
+INFO 2024-09-21 11:12:51,184 basehttp 40028 39588 "GET /admin/myapp3/post/ HTTP/1.1" 200 17747
+INFO 2024-09-21 11:12:55,890 basehttp 40028 39588 "POST /admin/logout/ HTTP/1.1" 200 3819
+INFO 2024-09-21 11:12:57,247 basehttp 40028 39588 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:12:57,255 basehttp 40028 39588 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4361
+INFO 2024-09-21 11:13:00,766 basehttp 40028 39588 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:13:00,788 basehttp 40028 39588 "GET /admin/ HTTP/1.1" 200 10689
+INFO 2024-09-21 11:13:32,275 basehttp 40028 39588 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12533
+INFO 2024-09-21 11:13:32,311 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:13:48,864 basehttp 40028 39588 "POST /admin/myapp5/product/add/ HTTP/1.1" 200 12760
+INFO 2024-09-21 11:13:48,890 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:14:01,268 basehttp 40028 39588 "GET /admin/myapp5/category/ HTTP/1.1" 200 9866
+INFO 2024-09-21 11:14:01,299 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:14:03,639 basehttp 40028 39588 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 10714
+INFO 2024-09-21 11:14:03,664 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:14:10,093 basehttp 40028 39588 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:14:10,125 basehttp 40028 39588 "GET /admin/myapp5/category/ HTTP/1.1" 200 11620
+INFO 2024-09-21 11:14:10,166 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:14:23,618 basehttp 40028 39588 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 10714
+INFO 2024-09-21 11:14:23,652 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:14:27,586 basehttp 40028 39588 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:14:27,608 basehttp 40028 39588 "GET /admin/myapp5/category/ HTTP/1.1" 200 11948
+INFO 2024-09-21 11:14:27,643 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:14:36,297 basehttp 40028 39588 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12615
+INFO 2024-09-21 11:14:36,329 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:15:09,354 basehttp 40028 39588 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:15:09,380 basehttp 40028 39588 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12896
+INFO 2024-09-21 11:15:09,433 basehttp 40028 39588 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:24:29,714 basehttp 40028 30184 "POST /admin/myapp5/product/add/ HTTP/1.1" 200 12842
+INFO 2024-09-21 11:24:29,737 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:24:32,867 basehttp 40028 30184 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:24:32,892 basehttp 40028 30184 "GET /admin/myapp5/product/ HTTP/1.1" 200 11935
+INFO 2024-09-21 11:24:32,919 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:24:43,557 basehttp 40028 30184 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12615
+INFO 2024-09-21 11:24:43,581 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:25:03,937 basehttp 40028 30184 "GET /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4447
+INFO 2024-09-21 11:25:03,961 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:25:33,815 basehttp 40028 30184 "POST /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 403
+INFO 2024-09-21 11:25:33,959 basehttp 40028 30184 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 532
+INFO 2024-09-21 11:25:48,291 basehttp 40028 30184 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:25:48,315 basehttp 40028 30184 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 12943
+INFO 2024-09-21 11:25:48,372 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:26:01,436 basehttp 40028 30184 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:26:01,468 basehttp 40028 30184 "GET /admin/myapp5/product/ HTTP/1.1" 200 12609
+INFO 2024-09-21 11:26:01,503 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:26:21,129 basehttp 40028 30184 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 12876
+INFO 2024-09-21 11:26:21,184 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:26:23,625 basehttp 40028 30184 "GET /admin/myapp5/product/1/delete/ HTTP/1.1" 200 9913
+INFO 2024-09-21 11:26:23,652 basehttp 40028 30184 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-09-21 11:26:49,307 basehttp 40028 30184 "POST /admin/myapp5/product/1/delete/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:26:49,328 basehttp 40028 30184 "GET /admin/myapp5/product/ HTTP/1.1" 200 12229
+INFO 2024-09-21 11:26:49,371 basehttp 40028 30184 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:32:04,405 autoreload 40028 55472 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:04,918 autoreload 26656 49512 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:23,644 autoreload 26656 49512 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:24,102 autoreload 28364 55272 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:28,393 autoreload 28364 55272 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:28,832 autoreload 39560 52336 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:31,065 autoreload 39560 52336 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:31,585 autoreload 56248 49764 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:33,821 autoreload 56248 49764 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:34,349 autoreload 1968 48296 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:39,745 autoreload 1968 48296 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:40,213 autoreload 35748 18172 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:43,541 autoreload 35748 18172 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:44,101 autoreload 40584 49700 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:47,347 autoreload 40584 49700 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:47,749 autoreload 26696 52700 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:51,038 autoreload 26696 52700 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:51,475 autoreload 38104 21276 Watching for file changes with StatReloader
+INFO 2024-09-21 11:32:56,761 autoreload 38104 21276 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:32:57,166 autoreload 12200 43936 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:06,574 autoreload 12200 43936 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:07,088 autoreload 38696 48880 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:10,326 autoreload 38696 48880 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:10,757 autoreload 51496 12916 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:12,067 autoreload 51496 12916 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:12,546 autoreload 35272 48664 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:15,791 autoreload 35272 48664 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:16,177 autoreload 24764 27840 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:19,469 autoreload 24764 27840 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:19,887 autoreload 42300 48304 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:22,162 autoreload 42300 48304 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:22,621 autoreload 48432 31892 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:27,947 autoreload 48432 31892 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:28,343 autoreload 55536 55912 Watching for file changes with StatReloader
+INFO 2024-09-21 11:33:30,605 autoreload 55536 55912 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\models.py changed, reloading.
+INFO 2024-09-21 11:33:31,016 autoreload 40404 48880 Watching for file changes with StatReloader
+INFO 2024-09-21 11:40:17,804 autoreload 38736 45736 Watching for file changes with StatReloader
+INFO 2024-09-21 11:44:05,485 autoreload 36684 40892 Watching for file changes with StatReloader
+INFO 2024-09-21 11:44:09,269 basehttp 36684 55452 "GET /admin/myapp5/product/ HTTP/1.1" 200 12067
+INFO 2024-09-21 11:44:09,288 basehttp 36684 55452 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:44:10,403 basehttp 36684 55452 "GET /admin/myapp5/product/ HTTP/1.1" 200 12067
+INFO 2024-09-21 11:44:10,429 basehttp 36684 55452 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:44:29,030 basehttp 36684 55452 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 15432
+INFO 2024-09-21 11:44:29,067 basehttp 36684 55452 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:44:56,240 basehttp 36684 55452 "POST /admin/myapp5/product/4/change/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:44:56,251 basehttp 36684 55452 "GET /admin/myapp5/product/ HTTP/1.1" 200 12285
+INFO 2024-09-21 11:44:56,290 basehttp 36684 55452 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:46:52,687 autoreload 36684 40892 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:46:53,221 autoreload 38008 42956 Watching for file changes with StatReloader
+INFO 2024-09-21 11:49:00,753 autoreload 53396 47948 Watching for file changes with StatReloader
+INFO 2024-09-21 11:49:07,087 basehttp 53396 51080 "GET /admin/myapp5/product/ HTTP/1.1" 200 12592
+INFO 2024-09-21 11:49:07,116 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:26,675 basehttp 53396 51080 "GET /admin/myapp5/product/?o=2 HTTP/1.1" 200 13000
+INFO 2024-09-21 11:49:26,704 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:27,650 basehttp 53396 51080 "GET /admin/myapp5/product/?o=-2 HTTP/1.1" 200 13006
+INFO 2024-09-21 11:49:27,677 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:28,648 basehttp 53396 51080 "GET /admin/myapp5/product/?o=1.-2 HTTP/1.1" 200 13498
+INFO 2024-09-21 11:49:28,684 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:29,981 basehttp 53396 51080 "GET /admin/myapp5/product/?o=3.1.-2 HTTP/1.1" 200 13913
+INFO 2024-09-21 11:49:30,008 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:30,989 basehttp 53396 51080 "GET /admin/myapp5/product/?o=-3.1.-2 HTTP/1.1" 200 13923
+INFO 2024-09-21 11:49:31,014 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:33,360 basehttp 53396 51080 "GET /admin/myapp5/product/?o=-3.1.2 HTTP/1.1" 200 13913
+INFO 2024-09-21 11:49:33,395 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:34,103 basehttp 53396 51080 "GET /admin/myapp5/product/?o=-3.1.-2 HTTP/1.1" 200 13923
+INFO 2024-09-21 11:49:34,134 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:35,205 basehttp 53396 51080 "GET /admin/myapp5/product/?o=-3.1 HTTP/1.1" 200 13498
+INFO 2024-09-21 11:49:35,227 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:36,892 basehttp 53396 51080 "GET /admin/myapp5/product/?o=-3 HTTP/1.1" 200 13006
+INFO 2024-09-21 11:49:36,928 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:47,008 basehttp 53396 51080 "GET /admin/myapp5/product/?o=3 HTTP/1.1" 200 13000
+INFO 2024-09-21 11:49:47,037 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:48,582 basehttp 53396 51080 "GET /admin/myapp5/product/?o=-3 HTTP/1.1" 200 13006
+INFO 2024-09-21 11:49:48,608 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:49,514 basehttp 53396 51080 "GET /admin/myapp5/product/?o=3 HTTP/1.1" 200 13000
+INFO 2024-09-21 11:49:49,545 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:49:50,822 basehttp 53396 51080 "GET /admin/myapp5/product/?o= HTTP/1.1" 200 12692
+INFO 2024-09-21 11:49:50,844 basehttp 53396 51080 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:50:54,494 autoreload 53396 47948 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:50:54,920 autoreload 10124 37992 Watching for file changes with StatReloader
+INFO 2024-09-21 11:51:00,260 autoreload 10124 37992 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:51:00,683 autoreload 40952 51168 Watching for file changes with StatReloader
+INFO 2024-09-21 11:51:03,981 autoreload 40952 51168 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:51:04,433 autoreload 49280 54012 Watching for file changes with StatReloader
+INFO 2024-09-21 11:51:10,811 autoreload 49280 54012 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:51:15,130 autoreload 48948 50036 Watching for file changes with StatReloader
+INFO 2024-09-21 11:51:23,826 basehttp 48948 55264 "GET /admin/myapp5/product/?o= HTTP/1.1" 200 12692
+INFO 2024-09-21 11:51:23,853 basehttp 48948 55264 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:51:29,275 basehttp 48948 55264 "GET /admin/myapp5/product/ HTTP/1.1" 200 13382
+INFO 2024-09-21 11:51:29,295 basehttp 48948 55264 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:52:10,743 autoreload 48948 50036 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:52:11,276 autoreload 48960 46932 Watching for file changes with StatReloader
+INFO 2024-09-21 11:52:17,651 autoreload 48960 46932 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:52:18,152 autoreload 48140 38008 Watching for file changes with StatReloader
+INFO 2024-09-21 11:52:23,494 autoreload 48140 38008 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:52:23,925 autoreload 26656 55064 Watching for file changes with StatReloader
+INFO 2024-09-21 11:52:29,323 autoreload 26656 55064 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:52:29,855 autoreload 54084 42756 Watching for file changes with StatReloader
+INFO 2024-09-21 11:54:17,771 basehttp 54084 43684 "GET /admin/myapp5/product/ HTTP/1.1" 200 14913
+INFO 2024-09-21 11:54:17,792 basehttp 54084 43684 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:56:24,420 autoreload 54084 42756 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:56:24,860 autoreload 52416 35752 Watching for file changes with StatReloader
+INFO 2024-09-21 11:56:29,198 autoreload 52416 35752 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:56:29,769 autoreload 48716 47444 Watching for file changes with StatReloader
+INFO 2024-09-21 11:56:35,113 autoreload 48716 47444 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 11:56:35,589 autoreload 46296 40568 Watching for file changes with StatReloader
+INFO 2024-09-21 11:58:56,490 autoreload 51688 53972 Watching for file changes with StatReloader
+INFO 2024-09-21 11:59:00,677 basehttp 51688 55460 "GET /admin/myapp5/product/ HTTP/1.1" 200 15421
+INFO 2024-09-21 11:59:00,695 basehttp 51688 55460 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:59:37,206 basehttp 51688 55460 "GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 15408
+INFO 2024-09-21 11:59:37,226 basehttp 51688 55460 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:59:47,231 basehttp 51688 55460 "POST /admin/myapp5/product/3/change/ HTTP/1.1" 302 0
+INFO 2024-09-21 11:59:47,256 basehttp 51688 55460 "GET /admin/myapp5/product/ HTTP/1.1" 200 15633
+INFO 2024-09-21 11:59:47,280 basehttp 51688 55460 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 11:59:55,518 basehttp 51688 55460 "GET /admin/myapp5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 15300
+INFO 2024-09-21 11:59:55,547 basehttp 51688 55460 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 12:00:04,630 basehttp 51688 55460 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 15629
+INFO 2024-09-21 12:00:04,654 basehttp 51688 55460 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 12:02:08,551 autoreload 51688 53972 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 12:02:09,021 autoreload 1968 28464 Watching for file changes with StatReloader
+INFO 2024-09-21 12:02:18,464 autoreload 1968 28464 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 12:02:18,857 autoreload 56044 41080 Watching for file changes with StatReloader
+INFO 2024-09-21 12:02:23,135 autoreload 56044 41080 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 12:02:23,535 autoreload 36000 53824 Watching for file changes with StatReloader
+INFO 2024-09-21 12:02:32,952 autoreload 36000 53824 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 12:02:33,359 autoreload 44380 29772 Watching for file changes with StatReloader
+INFO 2024-09-21 12:02:38,710 autoreload 44380 29772 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 12:02:39,145 autoreload 29716 47276 Watching for file changes with StatReloader
+INFO 2024-09-21 12:02:44,462 autoreload 29716 47276 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:18:08,584 autoreload 57648 50208 Watching for file changes with StatReloader
+INFO 2024-09-21 16:18:16,125 basehttp 57648 53644 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 15722
+INFO 2024-09-21 16:18:16,146 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:18:17,899 basehttp 57648 53644 "GET /admin/myapp5/product/4/change/?_changelist_filters=q%3D HTTP/1.1" 200 15517
+INFO 2024-09-21 16:18:17,935 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:18:20,383 basehttp 57648 53644 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 15722
+INFO 2024-09-21 16:18:35,519 basehttp 57648 53644 "POST /admin/myapp5/product/?q= HTTP/1.1" 302 0
+INFO 2024-09-21 16:18:35,549 basehttp 57648 53644 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 15720
+INFO 2024-09-21 16:18:35,593 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:19:36,224 basehttp 57648 53644 "GET /admin/myapp5/product/ HTTP/1.1" 200 15512
+INFO 2024-09-21 16:19:36,250 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:19:40,438 basehttp 57648 53644 "GET /admin/myapp5/category/ HTTP/1.1" 200 12079
+INFO 2024-09-21 16:19:40,455 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:19:44,982 basehttp 57648 53644 "GET /admin/myapp5/product/ HTTP/1.1" 200 15512
+INFO 2024-09-21 16:19:44,999 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:21:04,801 basehttp 57648 53644 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 15430
+INFO 2024-09-21 16:21:04,822 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:21:54,122 basehttp 57648 53644 "POST /admin/myapp5/product/4/change/ HTTP/1.1" 302 0
+INFO 2024-09-21 16:21:54,136 basehttp 57648 53644 "GET /admin/myapp5/product/ HTTP/1.1" 200 15730
+INFO 2024-09-21 16:21:54,171 basehttp 57648 53644 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:22:35,644 autoreload 57648 50208 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:22:36,185 autoreload 51300 57164 Watching for file changes with StatReloader
+INFO 2024-09-21 16:22:38,453 autoreload 51300 57164 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:22:38,908 autoreload 46728 48820 Watching for file changes with StatReloader
+INFO 2024-09-21 16:22:47,328 autoreload 46728 48820 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:22:47,807 autoreload 45976 39500 Watching for file changes with StatReloader
+INFO 2024-09-21 16:22:50,088 autoreload 45976 39500 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:25:40,793 autoreload 47548 56428 Watching for file changes with StatReloader
+ERROR 2024-09-21 16:25:42,591 log 47548 56848 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:25:42,594 basehttp 47548 56848 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145511
+ERROR 2024-09-21 16:25:43,744 log 47548 56848 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:25:43,746 basehttp 47548 56848 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:25:44,585 log 47548 56848 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:25:44,586 basehttp 47548 56848 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:25:45,058 log 47548 56848 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:25:45,059 basehttp 47548 56848 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+INFO 2024-09-21 16:25:58,410 autoreload 45216 57044 Watching for file changes with StatReloader
+ERROR 2024-09-21 16:26:02,654 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:02,657 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:03,473 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:03,474 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:04,124 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:04,125 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:04,546 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:04,547 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:04,749 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:04,750 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:04,909 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:04,910 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:05,068 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:05,070 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:05,238 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:05,240 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:05,380 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:05,383 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:05,561 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:05,564 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:05,738 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:05,741 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:05,880 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:05,883 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:06,058 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:06,061 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:06,271 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:06,276 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:06,439 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:06,443 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:06,606 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:06,608 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+ERROR 2024-09-21 16:26:06,780 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:06,794 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145642
+INFO 2024-09-21 16:26:13,435 basehttp 45216 57712 "GET /admin/myapp5/ HTTP/1.1" 200 6212
+INFO 2024-09-21 16:26:15,651 basehttp 45216 57712 "GET /admin/myapp5/product/ HTTP/1.1" 200 15512
+INFO 2024-09-21 16:26:15,675 basehttp 45216 57712 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+ERROR 2024-09-21 16:26:19,914 log 45216 57712 Internal Server Error: /admin/myapp5/product/4/change/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 654, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\forms\models.py", line 334, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1964, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 1855, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django\.venv\Lib\site-packages\django\contrib\admin\options.py", line 841, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (descrption) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 2024-09-21 16:26:19,968 basehttp 45216 57712 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 500 145505
+INFO 2024-09-21 16:27:17,807 autoreload 45216 57044 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:27:18,336 autoreload 55952 57580 Watching for file changes with StatReloader
+INFO 2024-09-21 16:27:20,317 basehttp 55952 49500 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 14654
+INFO 2024-09-21 16:27:20,344 basehttp 55952 49500 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:28:18,229 autoreload 55952 57580 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:28:18,729 autoreload 56376 49700 Watching for file changes with StatReloader
+INFO 2024-09-21 16:28:31,262 autoreload 56376 49700 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:28:31,655 autoreload 57756 43076 Watching for file changes with StatReloader
+INFO 2024-09-21 16:28:34,964 autoreload 57756 43076 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:28:35,396 autoreload 57452 43084 Watching for file changes with StatReloader
+INFO 2024-09-21 16:28:37,651 autoreload 57452 43084 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-09-21 16:28:38,122 autoreload 36044 43496 Watching for file changes with StatReloader
+INFO 2024-09-21 16:44:02,996 autoreload 54580 30408 Watching for file changes with StatReloader
+INFO 2024-09-21 16:44:05,531 basehttp 54580 41856 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 16433
+INFO 2024-09-21 16:44:05,557 basehttp 54580 41856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:44:13,818 basehttp 54580 41856 "GET /admin/myapp5/product/ HTTP/1.1" 200 15512
+INFO 2024-09-21 16:44:13,837 basehttp 54580 41856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-21 16:44:15,185 basehttp 54580 41856 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 16427
+INFO 2024-09-21 16:44:15,203 basehttp 54580 41856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546

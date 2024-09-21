@@ -5,25 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7df0c610-f7a0-4a23-9e03-06d03fe68cf6" name="Changes" comment="Lection 1">
-      <change afterPath="$PROJECT_DIR$/myproject/media/IMG_8950.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/templates/myapp4/many_fields_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/templates/myapp4/upload_image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/templates/myapp4/user_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp4/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/migrations/0002_product_date_added_product_description_product_price_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp5/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/log/django.log" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/log/django.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myapp3/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myapp3/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
