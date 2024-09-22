@@ -2006,3 +2006,44 @@ INFO 2024-09-21 16:44:13,818 basehttp 54580 41856 "GET /admin/myapp5/product/ HT
 INFO 2024-09-21 16:44:13,837 basehttp 54580 41856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
 INFO 2024-09-21 16:44:15,185 basehttp 54580 41856 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 16427
 INFO 2024-09-21 16:44:15,203 basehttp 54580 41856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-09-22 00:51:19,949 autoreload 58032 59904 Watching for file changes with StatReloader
+INFO 2024-09-22 00:51:52,191 basehttp 58032 60000 "GET / HTTP/1.1" 200 14278
+INFO 2024-09-22 00:51:52,216 basehttp 58032 60000 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 16675
+INFO 2024-09-22 00:51:52,219 basehttp 58032 59648 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 14601
+INFO 2024-09-22 00:51:52,229 basehttp 58032 59648 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-22 00:51:52,234 basehttp 58032 59648 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4742
+WARNING 2024-09-22 00:51:52,278 log 58032 59648 Not Found: /favicon.ico
+WARNING 2024-09-22 00:51:52,279 basehttp 58032 59648 "GET /favicon.ico HTTP/1.1" 404 16913
+INFO 2024-09-22 01:01:25,938 basehttp 58032 60720 "GET /__debug__/render_panel/?store_id=e80f7d653b7748c89be03ed90d71d95c&panel_id=SettingsPanel HTTP/1.1" 200 26495
+INFO 2024-09-22 01:01:43,177 basehttp 58032 60720 "GET /__debug__/render_panel/?store_id=e80f7d653b7748c89be03ed90d71d95c&panel_id=HeadersPanel HTTP/1.1" 200 5234
+INFO 2024-09-22 01:05:03,393 basehttp 58032 60720 "GET /__debug__/render_panel/?store_id=e80f7d653b7748c89be03ed90d71d95c&panel_id=SQLPanel HTTP/1.1" 200 428
+INFO 2024-09-22 01:05:41,929 basehttp 58032 60720 "GET /__debug__/render_panel/?store_id=e80f7d653b7748c89be03ed90d71d95c&panel_id=StaticFilesPanel HTTP/1.1" 200 34755
+INFO 2024-09-22 01:16:23,060 basehttp 58032 49344 "GET / HTTP/1.1" 200 14721
+INFO 2024-09-22 01:16:23,076 basehttp 58032 62372 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-22 01:16:23,076 basehttp 58032 49344 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-22 01:16:23,104 basehttp 58032 62372 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-22 01:16:23,105 basehttp 58032 49344 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-09-22 11:52:33,879 autoreload 53252 32092 Watching for file changes with StatReloader
+INFO 2024-09-22 11:52:35,638 basehttp 53252 60540 "GET / HTTP/1.1" 200 14721
+INFO 2024-09-22 11:52:35,683 basehttp 53252 60540 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-22 11:52:35,686 basehttp 53252 60540 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-22 11:52:35,717 basehttp 53252 60540 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-22 11:52:35,721 basehttp 53252 60540 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-09-22 11:52:35,829 log 53252 60540 Not Found: /favicon.ico
+WARNING 2024-09-22 11:52:35,830 basehttp 53252 60540 "GET /favicon.ico HTTP/1.1" 404 17504
+WARNING 2024-09-22 11:52:58,764 log 53252 60540 Not Found: /les6
+WARNING 2024-09-22 11:52:58,764 basehttp 53252 60540 "GET /les6 HTTP/1.1" 404 17476
+INFO 2024-09-22 11:53:10,423 basehttp 53252 60540 "GET /les6/db HTTP/1.1" 200 15021
+INFO 2024-09-22 11:53:10,485 basehttp 53252 53740 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2024-09-22 11:53:41,697 basehttp 53252 53740 "GET /les6/db/ HTTP/1.1" 200 14716
+INFO 2024-09-22 11:57:25,752 autoreload 53252 32092 C:\Users\Nitro V15\PycharmProjects\Django\myproject\myapp6\views.py changed, reloading.
+INFO 2024-09-22 11:57:26,466 autoreload 39168 27640 Watching for file changes with StatReloader
+INFO 2024-09-22 11:57:32,807 basehttp 39168 64876 "GET /les6/db/ HTTP/1.1" 200 14850
+INFO 2024-09-22 12:00:14,318 basehttp 39168 64876 "GET /les6/view HTTP/1.1" 200 15027
+INFO 2024-09-22 12:00:16,910 basehttp 39168 53412 "GET /les6/view/ HTTP/1.1" 200 14835
+INFO 2024-09-22 12:01:37,242 basehttp 39168 53412 "GET /les6/template HTTP/1.1" 200 15039
+INFO 2024-09-22 12:01:39,279 basehttp 39168 67988 "GET /les6/template/ HTTP/1.1" 200 14819
+INFO 2024-09-22 12:03:39,967 basehttp 39168 67988 "GET /__debug__/render_panel/?store_id=650dc6aa2ffb4e9990024e0cd67cbb42&panel_id=HistoryPanel HTTP/1.1" 200 9095
+INFO 2024-09-22 12:03:39,976 basehttp 39168 67988 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+WARNING 2024-09-22 12:09:02,773 log 39168 26808 Not Found: /favicon.ico
+WARNING 2024-09-22 12:09:02,774 basehttp 39168 26808 "GET /favicon.ico HTTP/1.1" 404 17061
